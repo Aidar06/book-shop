@@ -2,9 +2,13 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div>
+        <header id='header'>
+            <div className="container">
+                <div className="header">
 
-        </div>
+                </div>
+            </div>
+        </header>
     );
 };
 
